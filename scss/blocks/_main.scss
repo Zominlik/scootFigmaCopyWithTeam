@@ -1,0 +1,121 @@
+// main__section
+.intro__left__box__title {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 56px;
+    width: 500px;
+    margin-left: 165px;
+    margin-bottom: 0;
+}
+
+.intro__left__box__sub_title {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    width: 405px;
+}
+
+.intro__left__box__btn {
+    height: 53px;
+    width: 180px;
+    border: 3px solid #FCB72B;
+    margin-left: 260px;
+    color: rgba(252, 183, 43, 1);
+}
+
+.intro__left__box__link {
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 25px;
+    color: rgba(252, 183, 43, 1);
+}
+
+.intro__left__box {
+    display: flex;
+    flex-direction: column;
+    margin-left: 165px;
+}
+
+.main__section {
+    background-image: url(../../images/scoot__rider.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    width: 1440px;
+    margin: 0 auto;
+    height: 650px;
+    overflow-x: hidden;
+    font-family: 'Space Mono';
+}
+
+.main--wrapper--intro {
+    display: flex;
+    flex-direction: column;
+    margin-top: 153px;
+}
+
+.yellow--line--right__wrapper {
+    display: flex;
+    gap: 102px;
+    align-self: flex-end;
+    margin-bottom: 153px;
+}
+
+.intro__wrapper--first {
+    display: flex;
+    justify-content: space-between;
+    gap: 57px;
+}
+
+.intro__left__box__btn {
+    border: 3px solid #FCB72B;
+    color: rgba(252, 183, 43, 1);
+}
+
+.intro__left__box__btn:hover {
+    background-color: transparent;
+}
+
+.intro__left__box__link {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 25px;
+    color: #FCB72B;
+}
+
+.intro__section__wrapper--img {
+    margin-top: 50px;
+}
+// main__section
+
+// second__section
+.first__card__sub-ttitle {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+   width: 350px;
+}
+
+.cards {
+    display: flex;
+    gap: 30px;
+    padding: 160px 165px 147px;
+}
+
+.second__section {
+    background-image: url(../../images/white--line.jpg);
+    background-repeat: no-repeat;
+    background-position: left, center;
+    margin: 0 auto;
+    width: 1440px;
+    padding-top: 200px;
+}
+// second__section
+
+
+// Begzod shuyerga  1-chi shuni o'chirib copy paste qil
+
+
+// shohnazar shu yozuvni o'chirib shuyerga tashla yarmini footer ga
+
